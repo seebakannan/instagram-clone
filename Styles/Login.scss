@@ -1,0 +1,19 @@
+.login-container{
+    background: black;
+    min-height: 100vh;
+    .logo-container{
+        color: white;
+        margin: auto;
+    }
+    .form-container{
+        color: black;
+        background: white;
+
+    }
+    .form-items{
+        margin-top:90px;
+    }
+    .login-button{
+        width: 200px;
+    }
+}

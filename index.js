@@ -1,4 +1,4 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Mount from "./Mounting/DidMount";
-ReactDOM.render(<Mount />, document.getElementById("root"));
+import App from "./App";
+ReactDOM.render(<App />, document.getElementById("root"));
